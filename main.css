@@ -1,0 +1,11 @@
+body {
+  background-color: gray;
+
+}
+
+#theBox {
+  height: 100px;
+  width: 200px;
+  padding: 3px;
+  margin: 10px;
+}
